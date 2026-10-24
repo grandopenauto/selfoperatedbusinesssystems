@@ -22,7 +22,7 @@ Static, accessible SEO-oriented educational and marketing website for `selfopera
 
 The repository already contains the user's `CNAME` file specifying `selfoperatedbusinesssystems.com`; it must remain intact. In GitHub Settings → Pages, confirm source is Deploy from branch / `main` / `/(root)` (or compatible authorized workflow). Set apex A/ALIAS/ANAME and optional `www` CNAME according to GitHub's current Pages docs. Verify DNS, custom domain and HTTPS before publishing or submitting sitemap.
 
-**Second owned domain:** `selfoperatingbusinesssystems.com` should *not* be pointed at the same repo as a second GitHub Pages custom domain. Prefer a permanent domain-level redirect to the canonical `https://selfoperatedbusinesssystems.com/`, preserving paths where feasible. If someday it hosts a distinct site, require substantial unique user value, not a mirrored doorway.
+**Companion site:** `selfoperatingbusinesssystems.com` now has a **distinct GitHub repository and its own operating-workflow focused marketing page**. It is linked as a companion, not used as a duplicate/redirect. **SISOBS** (`https://sisobs.com/`) serves as the broader super-intelligent systems marketing entrance.
 
 ## Post-publish checks
 
